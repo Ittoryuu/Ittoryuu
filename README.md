@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Ittoryuu
-- 🌱 I’m currently learning Python, php, jv and css 
+- 🌱 I’m currently learning Python, Html, jv and css 
 - 📫 How to reach me --> Ittoryu@gmx.fr
